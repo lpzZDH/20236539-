@@ -1,0 +1,282 @@
+{
+  "mem_course_001": {
+    "memory_id": "mem_course_001",
+    "memory_type": "global",
+    "title": "Agent 基础概念",
+    "summary": "Agent 系统由模型、工具、记忆和执行循环组成。",
+    "path": "global/mem_course_001.md",
+    "conversation_id": null,
+    "created_at": "2026-06-20T00:00:00+08:00",
+    "updated_at": "2026-06-20T00:00:00+08:00"
+  },
+  "mem_conversation_conv_000": {
+    "memory_id": "mem_conversation_conv_000",
+    "memory_type": "conversation",
+    "title": "Conversation conv_000",
+    "summary": "Agent（智能体）是指能够自主感知环境、规划行动并执行任务的智能系统。它通常具备感知、决策和执行三个核心能力，能够根据目标动态调整行为，无需人类持续干预即可完成任务。在人工智能领域，Agent 可以是简单的规则系统，也可以是复杂的深度学习模型，广泛应用于自动化、机器人、客户服务等场景。",
+    "path": "conversations/conv_000.md",
+    "conversation_id": "conv_000",
+    "created_at": "2026-06-22T14:07:46+00:00",
+    "updated_at": "2026-06-22T14:07:46+00:00"
+  },
+  "mem_conversation_test_001": {
+    "memory_id": "mem_conversation_test_001",
+    "memory_type": "conversation",
+    "title": "Conversation test_001",
+    "summary": "TensorFlow是一个开源的机器学习框架。",
+    "path": "conversations/test_001.md",
+    "conversation_id": "test_001",
+    "created_at": "2026-07-02T03:36:23",
+    "updated_at": "2026-07-11T05:15:39"
+  },
+  "mem_conversation_conv_sample_001": {
+    "memory_id": "mem_conversation_conv_sample_001",
+    "memory_type": "conversation",
+    "title": "Conversation conv_sample_001",
+    "summary": "TensorFlow 2.x引入了Eager Execution模式，支持动态图计算，调试更加直观方便。同时Keras被集成为核心API。",
+    "path": "conversations/conv_sample_001.md",
+    "conversation_id": "conv_sample_001",
+    "created_at": "2026-07-03T01:17:20",
+    "updated_at": "2026-07-14T04:54:26"
+  },
+  "mem_conversation_test_cli_001": {
+    "memory_id": "mem_conversation_test_cli_001",
+    "memory_type": "conversation",
+    "title": "Conversation test_cli_001",
+    "summary": "Pandas\n- 数据处理和分析的核心库\n- 提供DataFrame二维数据结构\n- 支持CSV、Excel、SQL等多种数据格式\n\n## 2. 使用matplotlib/seaborn进行可视化 Matplotlib / Seaborn\n- 数据可视化库\n- 支持各种图表类型\n- 可定制化的图形样式\n\n## 基本工作流程\n1. 使用pandas读取数据\n2.",
+    "path": "conversations/test_cli_001.md",
+    "conversation_id": "test_cli_001",
+    "created_at": "2026-07-03T02:21:21",
+    "updated_at": "2026-07-03T02:22:07"
+  },
+  "mem_conversation_test_long_001": {
+    "memory_id": "mem_conversation_test_long_001",
+    "memory_type": "conversation",
+    "title": "Conversation test_long_001",
+    "summary": "Agent系统由模型、工具、记忆和执行循环组成。 Agent系统由模型、工具、记忆和执行循环组成。 Agent系统由模型、工具、记忆和执行循环组成。 Agent系统由模型、工具、记忆和执行循环组成。 Agent系统由模型、工具、记忆和执行循环组成。 Agent系统由模型、工具、记忆和执行循环组成。 Agent系统由模型、工具、记忆和执行循环组成。 Agent系统由模型、工具、记忆和执行循环组成。",
+    "path": "conversations/test_long_001.md",
+    "conversation_id": "test_long_001",
+    "created_at": "2026-07-03T02:23:11",
+    "updated_at": "2026-07-03T02:23:11"
+  },
+  "mem_conversation_test_conv_001": {
+    "memory_id": "mem_conversation_test_conv_001",
+    "memory_type": "conversation",
+    "title": "Conversation test_conv_001",
+    "summary": "Agent系统调用工具的流程是：B4 LLM决策需要调用工具 → B3解析工具参数 → B2执行Skill → B1管理消息循环。",
+    "path": "conversations/test_conv_001.md",
+    "conversation_id": "test_conv_001",
+    "created_at": "2026-07-06T01:32:10",
+    "updated_at": "2026-07-06T01:38:06"
+  },
+  "mem_global_test_global_001": {
+    "memory_id": "mem_global_test_global_001",
+    "memory_type": "global",
+    "title": "Global test_global_001",
+    "summary": "Agent系统是一种能够自主理解目标、调用工具并完成任务的智能系统。它由B1 Runtime、B2 Skill、B3 Tool、B4 LLM、B5 Memory五个模块组成。",
+    "path": "global/test_global_001.md",
+    "conversation_id": "test_global_001",
+    "created_at": "2026-07-06T01:32:10",
+    "updated_at": "2026-07-06T01:38:05"
+  },
+  "mem_conversation_kw_test_1": {
+    "memory_id": "mem_conversation_kw_test_1",
+    "memory_type": "conversation",
+    "title": "Conversation kw_test_1",
+    "summary": "机器学习文档1，包含神经网络、深度学习相关内容。",
+    "path": "conversations/kw_test_1.md",
+    "conversation_id": "kw_test_1",
+    "created_at": "2026-07-06T01:32:10",
+    "updated_at": "2026-07-06T01:38:05"
+  },
+  "mem_conversation_kw_test_2": {
+    "memory_id": "mem_conversation_kw_test_2",
+    "memory_type": "conversation",
+    "title": "Conversation kw_test_2",
+    "summary": "机器学习文档2，包含神经网络、深度学习相关内容。",
+    "path": "conversations/kw_test_2.md",
+    "conversation_id": "kw_test_2",
+    "created_at": "2026-07-06T01:32:10",
+    "updated_at": "2026-07-06T01:38:05"
+  },
+  "mem_conversation_kw_test_3": {
+    "memory_id": "mem_conversation_kw_test_3",
+    "memory_type": "conversation",
+    "title": "Conversation kw_test_3",
+    "summary": "机器学习文档3，包含神经网络、深度学习相关内容。",
+    "path": "conversations/kw_test_3.md",
+    "conversation_id": "kw_test_3",
+    "created_at": "2026-07-06T01:32:10",
+    "updated_at": "2026-07-06T01:38:05"
+  },
+  "mem_conversation_llm_summary_test": {
+    "memory_id": "mem_conversation_llm_summary_test",
+    "memory_type": "conversation",
+    "title": "Conversation llm_summary_test",
+    "summary": "Agent系统测试。Agent系统测试。Agent系统测试。Agent系统测试。Agent系统测试。Agent系统测试。Agent系统测试。Agent系统测试。Agent系统测试。Agent系统测试。Agent系统测试。Agent系统测试。Agent系统测试。Agent系统测试。Agent系统测试。Agent系统测试。Agent系统测试。Agent系统测试。Agent系统测试。Agent系统测试。...",
+    "path": "conversations/llm_summary_test.md",
+    "conversation_id": "llm_summary_test",
+    "created_at": "2026-07-06T01:32:10",
+    "updated_at": "2026-07-06T01:38:06"
+  },
+  "mem_conversation_empty_test": {
+    "memory_id": "mem_conversation_empty_test",
+    "memory_type": "conversation",
+    "title": "Conversation empty_test",
+    "summary": "Agent系统是一种能够自主理解目标、调用工具并完成任务的智能系统。它由B1 Runtime、B2 Skill、B3 Tool、B4 LLM、B5 Memory五个模块组成。",
+    "path": "conversations/empty_test.md",
+    "conversation_id": "empty_test",
+    "created_at": "2026-07-06T01:32:10",
+    "updated_at": "2026-07-06T01:38:06"
+  },
+  "mem_conversation_long_test": {
+    "memory_id": "mem_conversation_long_test",
+    "memory_type": "conversation",
+    "title": "Conversation long_test",
+    "summary": "这是一个测试内容。这是一个测试内容。这是一个测试内容。这是一个测试内容。这是一个测试内容。这是一个测试内容。这是一个测试内容。这是一个测试内容。这是一个测试内容。这是一个测试内容。这是一个测试内容。这是一个测试内容。这是一个测试内容。这是一个测试内容。这是一个测试内容。这是一个测试内容。这是一个测试内容。这是一个测试内容。这是一个测试内容。这是一个测试内容。这是一个测试内容。这是一个测试内容。这是...",
+    "path": "conversations/long_test.md",
+    "conversation_id": "long_test",
+    "created_at": "2026-07-06T01:32:11",
+    "updated_at": "2026-07-06T01:38:06"
+  },
+  "mem_conversation_update_demo": {
+    "memory_id": "mem_conversation_update_demo",
+    "memory_type": "conversation",
+    "title": "Conversation update_demo",
+    "summary": "Agent系统由B1 Runtime、B2 Skill、B3 Tool、B4 LLM、B5 Memory五个模块组成。新增功能包括向量检索和冲突管理。",
+    "path": "conversations/update_demo.md",
+    "conversation_id": "update_demo",
+    "created_at": "2026-07-06T01:39:58",
+    "updated_at": "2026-07-06T01:39:58"
+  },
+  "mem_conversation_vec_": {
+    "memory_id": "mem_conversation_vec_",
+    "memory_type": "conversation",
+    "title": "Conversation vec_",
+    "summary": "自然语言处理是人工智能的重要分支。",
+    "path": "conversations/vec_.md",
+    "conversation_id": "vec_",
+    "created_at": "2026-07-06T01:40:24",
+    "updated_at": "2026-07-06T01:40:24"
+  },
+  "mem_conversation_wrong_memory": {
+    "memory_id": "mem_conversation_wrong_memory",
+    "memory_type": "conversation",
+    "title": "Conversation wrong_memory",
+    "summary": "Agent系统只有三个模块：B1、B2、B3。",
+    "path": "conversations/wrong_memory.md",
+    "conversation_id": "wrong_memory",
+    "created_at": "2026-07-06T01:41:05",
+    "updated_at": "2026-07-06T01:41:05"
+  },
+  "mem_conversation_summary_test": {
+    "memory_id": "mem_conversation_summary_test",
+    "memory_type": "conversation",
+    "title": "Conversation summary_test",
+    "summary": "它由B1 Runtime运行时模块、B2 Skill工具函数模块、B3 Tool说明生成与工具调用模块、B4 LLM决策模块、B5 Memory记忆模块五个核心模块组成。 它由B1 Runtime运行时模块、B2 Skill工具函数模块、B3 Tool说明生成与工具调用模块、B4 LLM决策模块、B5 Memory记忆模块五个核心模块组成。",
+    "path": "conversations/summary_test.md",
+    "conversation_id": "summary_test",
+    "created_at": "2026-07-06T01:42:06",
+    "updated_at": "2026-07-06T01:42:06"
+  },
+  "mem_conversation_summary_test_v2": {
+    "memory_id": "mem_conversation_summary_test_v2",
+    "memory_type": "conversation",
+    "title": "Conversation summary_test_v2",
+    "summary": "它由B1 Runtime运行时模块、B2 Skill工具函数模块、B3 Tool说明生成与工具调用模块、B4 LLM决策模块、B5 Memory记忆模块五个核心模块组成。 它由B1 Runtime运行时模块、B2 Skill工具函数模块、B3 Tool说明生成与工具调用模块、B4 LLM决策模块、B5 Memory记忆模块五个核心模块组成。",
+    "path": "conversations/summary_test_v2.md",
+    "conversation_id": "summary_test_v2",
+    "created_at": "2026-07-06T01:43:05",
+    "updated_at": "2026-07-06T01:43:05"
+  },
+  "mem_conversation_summary_test_v3": {
+    "memory_id": "mem_conversation_summary_test_v3",
+    "memory_type": "conversation",
+    "title": "Conversation summary_test_v3",
+    "summary": "它由B1 Runtime运行时模块、B2 Skill工具函数模块、B3 Tool说明生成与工具调用模块、B4 LLM决策模块、B5 Memory记忆模块五个核心模块组成。 它由B1 Runtime运行时模块、B2 Skill工具函数模块、B3 Tool说明生成与工具调用模块、B4 LLM决策模块、B5 Memory记忆模块五个核心模块组成。",
+    "path": "conversations/summary_test_v3.md",
+    "conversation_id": "summary_test_v3",
+    "created_at": "2026-07-06T01:45:05",
+    "updated_at": "2026-07-06T01:45:05"
+  },
+  "mem_conversation_summary_test_v4": {
+    "memory_id": "mem_conversation_summary_test_v4",
+    "memory_type": "conversation",
+    "title": "Conversation summary_test_v4",
+    "summary": "Agent系统是一种能自主理解目标、调用工具完成任务的智能系统。其核心包含五个模块：B1运行时模块负责接收输入与维护消息序列；B2技能模块实现计算器、文件读取等具体工具函数；B3模块作为桥接层生成工具Schema并执行调用；B4决策模块采用本地Qwen3.5-4B模型进行决策；B5记忆模块管理文档的存储与检索。",
+    "path": "conversations/summary_test_v4.md",
+    "conversation_id": "summary_test_v4",
+    "created_at": "2026-07-06T01:47:42",
+    "updated_at": "2026-07-06T01:47:42"
+  },
+  "mem_conversation_doc_summary_test": {
+    "memory_id": "mem_conversation_doc_summary_test",
+    "memory_type": "conversation",
+    "title": "Conversation doc_summary_test",
+    "summary": "B5是本地记忆管理模块，负责读取记忆配置并根据用户指定选择记忆文档返回给B1，同时保存对话消息、追踪记录和最终答案。其基础流程包括读取记忆文件、按规则截断并写入索引。进阶功能涵盖关键词与向量检索、自动压缩长文本、记忆文档更新及冲突管理。B5不直接调用LLM，基础标题和摘要使用确定性规则生成，旨在优化记忆准确性并减少错误记忆对回答的误导。",
+    "path": "conversations/doc_summary_test.md",
+    "conversation_id": "doc_summary_test",
+    "created_at": "2026-07-06T01:56:17",
+    "updated_at": "2026-07-06T01:56:17"
+  },
+  "mem_conversation_doc_summary_long": {
+    "memory_id": "mem_conversation_doc_summary_long",
+    "memory_type": "conversation",
+    "title": "Conversation doc_summary_long",
+    "summary": "B5是本地记忆管理模块，负责读取配置并根据用户指定选择记忆文档返回给B1，同时保存对话消息、追踪记录及最终答案。基础功能包括按ID查找记忆、加载全局记忆、截断内容并保存；保存流程则生成记忆ID、标题和摘要，更新索引并记录日志。进阶功能涵盖关键词与向量检索、LLM智能摘要压缩、记忆文档更新及冲突管理，以及分析错误记忆对回答的影响并评估可靠性。",
+    "path": "conversations/doc_summary_long.md",
+    "conversation_id": "doc_summary_long",
+    "created_at": "2026-07-06T01:58:24",
+    "updated_at": "2026-07-06T01:58:24"
+  },
+  "mem_conversation_doc_summary_v3": {
+    "memory_id": "mem_conversation_doc_summary_v3",
+    "memory_type": "conversation",
+    "title": "Conversation doc_summary_v3",
+    "summary": "B5是本地记忆管理模块，负责读取配置并根据用户指定选择记忆文档返回给B1，同时保存对话消息、追踪记录及最终答案。基础功能包括按ID查找记忆、加载全局记忆、截断内容并保存；保存流程则生成记忆ID、标题和摘要，更新索引并记录日志。进阶功能涵盖关键词与向量检索、LLM智能摘要压缩、记忆文档更新及冲突管理，以及分析错误记忆对回答的影响并评估可靠性。",
+    "path": "conversations/doc_summary_v3.md",
+    "conversation_id": "doc_summary_v3",
+    "created_at": "2026-07-06T02:00:51",
+    "updated_at": "2026-07-06T02:00:51"
+  },
+  "mem_conversation_doc_summary_fixed": {
+    "memory_id": "mem_conversation_doc_summary_fixed",
+    "memory_type": "conversation",
+    "title": "Conversation doc_summary_fixed",
+    "summary": "B5 Memory Module - Advanced Features\n\nB5是本地memory管理模块，负责读取memory配置和memory_index.json，根据用户指定的memory_id与全局记忆配置选择记忆文档，并返回给B1。同时能够将当前对话的messages、trace、final_answer保存为对话记忆或全局记忆。\n\n基础功能：\n1. Memory查找流程：读取memo",
+    "path": "conversations/doc_summary_fixed.md",
+    "conversation_id": "doc_summary_fixed",
+    "created_at": "2026-07-06T02:05:31",
+    "updated_at": "2026-07-06T02:06:08"
+  },
+  "mem_conversation_doc_summary_final": {
+    "memory_id": "mem_conversation_doc_summary_final",
+    "memory_type": "conversation",
+    "title": "Conversation doc_summary_final",
+    "summary": "B5 Memory Module - Advanced Features\n\nB5是本地memory管理模块，负责读取memory配置和memory_index.json，根据用户指定的memory_id与全局记忆配置选择记忆文档，并返回给B1。同时能够将当前对话的messages、trace、final_answer保存为对话记忆或全局记忆。\n\n基础功能：\n1. Memory查找流程：读取memo",
+    "path": "conversations/doc_summary_final.md",
+    "conversation_id": "doc_summary_final",
+    "created_at": "2026-07-06T02:06:27",
+    "updated_at": "2026-07-06T02:06:27"
+  },
+  "mem_conversation_doc_summary_final2": {
+    "memory_id": "mem_conversation_doc_summary_final2",
+    "memory_type": "conversation",
+    "title": "Conversation doc_summary_final2",
+    "summary": "B5是本地记忆管理模块，负责读取配置并根据用户指定选择记忆文档返回给B1，同时保存对话消息、追踪记录及最终答案。基础功能包括按ID查找记忆、加载全局记忆、截断内容并保存；保存流程则生成记忆ID、标题和摘要，更新索引并记录日志。进阶功能涵盖关键词与向量检索、LLM智能摘要压缩、记忆文档更新及冲突管理，以及分析错误记忆对回答的影响并评估可靠性。",
+    "path": "conversations/doc_summary_final2.md",
+    "conversation_id": "doc_summary_final2",
+    "created_at": "2026-07-06T02:06:43",
+    "updated_at": "2026-07-06T02:06:43"
+  },
+  "mem_conversation_doc_summary_debug": {
+    "memory_id": "mem_conversation_doc_summary_debug",
+    "memory_type": "conversation",
+    "title": "Conversation doc_summary_debug",
+    "summary": "B5是本地记忆管理模块，负责读取配置并根据用户指定选择记忆文档返回给B1，同时保存对话消息、追踪记录及最终答案。基础功能包括按ID查找记忆、加载全局记忆、截断内容并保存；保存流程则生成记忆ID、标题和摘要，更新索引并记录日志。进阶功能涵盖关键词与向量检索、LLM智能摘要压缩、记忆文档更新及冲突管理，以及分析错误记忆对回答的影响并评估可靠性。",
+    "path": "conversations/doc_summary_debug.md",
+    "conversation_id": "doc_summary_debug",
+    "created_at": "2026-07-06T02:08:09",
+    "updated_at": "2026-07-06T02:08:09"
+  }
+}

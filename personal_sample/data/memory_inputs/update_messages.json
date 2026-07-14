@@ -1,0 +1,4 @@
+[
+  {"role": "user", "content": "TensorFlow有什么新特性？"},
+  {"role": "assistant", "content": "TensorFlow 2.x支持Eager Execution，调试更方便"}
+]

@@ -1,0 +1,6 @@
+[
+  {"role": "user", "content": "Python机器学习用什么库？"},
+  {"role": "assistant", "content": "Python机器学习主要使用scikit-learn、TensorFlow和PyTorch。scikit-learn适合传统机器学习，TensorFlow和PyTorch适合深度学习。"},
+  {"role": "user", "content": "scikit-learn有什么特点？"},
+  {"role": "assistant", "content": "scikit-learn是Python最流行的机器学习库，提供统一的API接口。支持分类、回归、聚类、降维等算法。特点包括：简单易用的fit/predict接口、丰富的文档和示例、与numpy/pandas无缝集成、支持模型持久化。"}
+]
